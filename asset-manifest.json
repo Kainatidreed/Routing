@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kainatidreed/Routing/static/css/main.e6c13ad2.css",
+    "main.js": "/Kainatidreed/Routing/static/js/main.bab46c4e.js",
+    "static/js/453.de71eec8.chunk.js": "/Kainatidreed/Routing/static/js/453.de71eec8.chunk.js",
+    "index.html": "/Kainatidreed/Routing/index.html",
+    "main.e6c13ad2.css.map": "/Kainatidreed/Routing/static/css/main.e6c13ad2.css.map",
+    "main.bab46c4e.js.map": "/Kainatidreed/Routing/static/js/main.bab46c4e.js.map",
+    "453.de71eec8.chunk.js.map": "/Kainatidreed/Routing/static/js/453.de71eec8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bab46c4e.js"
+  ]
+}
